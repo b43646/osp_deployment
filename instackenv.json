@@ -1,0 +1,81 @@
+{
+  "nodes": [
+    {
+      "pm_user": "admin",
+      "pm_type": "pxe_ipmitool",
+      "pm_password": "password",
+      "pm_port": "6234",
+      "pm_addr": "192.168.1.1",
+      "name": "overcloud-compute01",
+      "mac": [
+        "52:54:00:e7:9e:83"
+      ]
+    },
+    {
+      "pm_user": "admin",
+      "pm_type": "pxe_ipmitool",
+      "pm_password": "password",
+      "pm_port": "6235",
+      "pm_addr": "192.168.1.1",
+      "name": "overcloud-compute02",
+      "mac": [
+        "52:54:00:16:af:9a"
+      ]
+    },
+    {
+      "pm_user": "admin",
+      "pm_type": "pxe_ipmitool",
+      "pm_password": "password",
+      "pm_port": "6231",
+      "pm_addr": "192.168.1.1",
+      "name": "overcloud-ctrl01",
+      "mac": [
+        "52:54:00:f3:16:8b"
+      ]
+    },
+    {
+      "pm_user": "admin",
+      "pm_type": "pxe_ipmitool",
+      "pm_password": "password",
+      "pm_port": "6232",
+      "pm_addr": "192.168.1.1",
+      "name": "overcloud-ctrl02",
+      "mac": [
+        "52:54:00:f7:c7:0e"
+      ]
+    },
+    {
+      "pm_user": "admin",
+      "pm_type": "pxe_ipmitool",
+      "pm_password": "password",
+      "pm_port": "6233",
+      "pm_addr": "192.168.1.1",
+      "name": "overcloud-ctrl03",
+      "mac": [
+        "52:54:00:50:8b:9e"
+      ]
+    },
+    {
+      "pm_user": "admin",
+      "pm_type": "pxe_ipmitool",
+      "pm_password": "password",
+      "pm_port": "6239",
+      "pm_addr": "192.168.1.1",
+      "name": "overcloud-networker",
+      "mac": [
+        "52:54:00:70:e3:a7"
+      ]
+    },
+    {
+      "pm_user": "admin",
+      "pm_type": "pxe_ipmitool",
+      "pm_password": "password",
+      "pm_port": "6236",
+      "pm_addr": "192.168.1.1",
+      "name": "overcloud-stor01",
+      "mac": [
+        "52:54:00:6a:f6:4c"
+      ]
+    }
+  ]
+}
